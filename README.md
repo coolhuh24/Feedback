@@ -38,4 +38,4 @@ If you cannot do the above, please do not suggest any features.
 
 [IRC #ThermalExpansion on esper.net](http://webchat.esper.net/?nick=ThermalWiki....&channels=ThermalExpansion)
 
-©2012-2014 Cult of the Full Hub / Team CoFH / CoFH
+©2012-2015 Cult of the Full Hub / Team CoFH / CoFH
