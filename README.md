@@ -20,6 +20,7 @@ This repository is for tracking bugs and providing suggestions for ALL CoFH mods
 - Include a pastebin (or equivalent) link to a list of all your mods.
 - Include the crash log
 - Be descriptive.
+- Be respectful.
 - Use proper grammar and spelling.
 
 If you can't do the above, please do not report any bugs.
@@ -28,6 +29,7 @@ If you can't do the above, please do not report any bugs.
 - Include the mod name.
 - Provide a reason.
 - Be descriptive.
+- Be respectful.
 - Use proper grammar and spelling.
 
 If you cannot do the above, please do not suggest any features.
